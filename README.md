@@ -1,3 +1,4 @@
-## Requirements
+Repo orientado como Bugtracker del source de Cataclismo de RoG WoW
 
-https://trinitycore.info/en/install/requirements/linux
+Más info en:
+https://www.rogwow.com/
